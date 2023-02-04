@@ -20,3 +20,4 @@ databases:
     plan: free
     databaseName: umami
     user: umami
+    region: ohio
