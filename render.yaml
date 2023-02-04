@@ -3,7 +3,7 @@ services:
     name: umami
     env: docker
     repo: https://github.com/thomascenni/umami.git
-    region: oregon # optional (defaults to oregon)
+    region: ohio # optional (defaults to oregon)
     plan: free
     branch: main
     numInstances: 1
