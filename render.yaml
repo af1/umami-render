@@ -2,7 +2,7 @@ services:
   - type: web
     name: umami
     env: docker
-    repo: https://github.com/thomascenni/umami.git
+    repo: https://github.com/af1/umami-render.git
     region: ohio # optional (defaults to oregon)
     plan: free
     branch: main
